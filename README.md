@@ -1,2 +1,2 @@
 # 2048-vue2-vuex
-[Preview](https://game.o0o.im)
+[Preview](https://mi.o0o.im/2048.html)
